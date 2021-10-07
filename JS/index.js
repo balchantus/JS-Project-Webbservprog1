@@ -2,7 +2,6 @@ function txt() {
   document.getElementById("txt").innerHTML = "Changed Text!";
 }
 
-// Denna funktion har jag ej gjort själv.
 function getRandomColor() {
   var letters = "0123456789ABCDEF".split('');
   var color = "#";
